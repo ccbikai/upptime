@@ -27,9 +27,7 @@ sites:
     expectedStatusCodes:
       - 401
   - name: LU
-    url: lu.kai.bi
-    port: 80
-    check: "tcp-ping"
+    url: http://lu.kai.bi
     ipv6: true
 
 status-website:
