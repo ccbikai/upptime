@@ -1,6 +1,7 @@
 # Change these first
 owner: ccbikai # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0 Upptime/1.0.0
 
 sites:
   - name: MT.CI
@@ -15,8 +16,16 @@ sites:
     url: https://chi.miantiao.me
   - name: feed.miantiao.me
     url: https://feed.miantiao.me
+  - name: MT Umami
+    url: https://umm.miantiao.me/api/auth/verify
+    expectedStatusCodes:
+      - 401
   - name: HTML.ZONE
     url: https://html.zone
+  - name: HTML.ZONE Umami
+    url: https://umm.html.zone/api/auth/verify
+    expectedStatusCodes:
+      - 401
   - name: LU
     url: lu.kai.bi
     port: 80
@@ -28,13 +37,12 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: uptime.miantiao.me
   # baseUrl: /your-repo-name
+  theme: dark
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
-  introTitle: "Uptime Title"
-  introMessage: "Uptime Message"
+  # introTitle: "Uptime Title"
+  # introMessage: "Uptime Message"
   navbar:
-    - title: Status
-      href: /
     - title: Home
       href: https://mt.ci
 
