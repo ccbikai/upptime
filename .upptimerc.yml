@@ -16,7 +16,7 @@ sites:
   - name: feed.miantiao.me
     url: https://feed.miantiao.me
   - name: HTML.ZONE
-    url: https://html.kai.bi
+    url: https://html.zone
   - name: LU
     url: lu.kai.bi
     port: 80
