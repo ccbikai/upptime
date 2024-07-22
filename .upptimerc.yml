@@ -20,15 +20,6 @@ sites:
     url: https://umm.miantiao.me/api/auth/verify
     expectedStatusCodes:
       - 401
-  - name: HTML.ZONE
-    url: https://html.zone
-  - name: HTML.ZONE Umami
-    url: https://umm.html.zone/api/auth/verify
-    expectedStatusCodes:
-      - 401
-  - name: LU IPv6
-    url: http://lu.kai.bi
-    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
