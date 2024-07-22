@@ -16,10 +16,14 @@ sites:
     url: https://chi.miantiao.me
   - name: feed.miantiao.me
     url: https://feed.miantiao.me
-  - name: MT Umami
+  - name: umm.miantiao.me
     url: https://umm.miantiao.me/api/auth/verify
     expectedStatusCodes:
       - 401
+  - name: upptime.miantiao.me
+    url: https://upptime.miantiao.me
+  - name: s.mt.ci
+    url: https://s.mt.ci
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
