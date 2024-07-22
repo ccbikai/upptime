@@ -12,6 +12,8 @@ sites:
     url: https://kai.bi
   - name: miantiao.me
     url: https://miantiao.me
+  - name: s.mt.ci
+    url: https://s.mt.ci
   - name: chi.miantiao.me
     url: https://chi.miantiao.me
   - name: feed.miantiao.me
@@ -20,10 +22,14 @@ sites:
     url: https://umm.miantiao.me/api/auth/verify
     expectedStatusCodes:
       - 401
-  - name: upptime.miantiao.me
-    url: https://upptime.miantiao.me
-  - name: s.mt.ci
-    url: https://s.mt.ci
+  - name: uptime.miantiao.me
+    url: https://uptime.miantiao.me
+  - name: static.miantiao.me
+    url: https://static.miantiao.me/share/2024/k3g4qs/c3TrOQ.png
+  - name: waline.miantiao.me
+    url: https://waline.miantiao.me/ui
+  
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
