@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/kai.bi.ico",
     "slug": "kai-bi",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1382,
     "timeDay": 2241,
     "timeWeek": 1452,
     "timeMonth": 1382,
     "timeYear": 1382,
-    "dailyMinutesDown": {
-      "2024-07-26": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "miantiao.me",
@@ -115,11 +113,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/feed.miantiao.me.ico",
     "slug": "feed-miantiao-me",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
     "time": 223,
     "timeDay": 172,
     "timeWeek": 286,
@@ -134,19 +132,19 @@
     "url": "https://umm.miantiao.me/api/auth/verify",
     "icon": "https://icons.duckduckgo.com/ip3/umm.miantiao.me.ico",
     "slug": "umm-miantiao-me",
-    "status": "up",
-    "uptime": "99.88%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 9113,
     "timeDay": 7681,
     "timeWeek": 9113,
     "timeMonth": 9113,
     "timeYear": 9113,
     "dailyMinutesDown": {
-      "2024-07-26": 8
+      "2024-07-26": 0
     }
   },
   {
