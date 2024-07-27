@@ -132,19 +132,19 @@
     "url": "https://umm.miantiao.me/api/auth/verify",
     "icon": "https://icons.duckduckgo.com/ip3/umm.miantiao.me.ico",
     "slug": "umm-miantiao-me",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 9655,
-    "timeDay": 9075,
-    "timeWeek": 9655,
-    "timeMonth": 9655,
-    "timeYear": 9655,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 9738,
+    "timeDay": 9296,
+    "timeWeek": 9738,
+    "timeMonth": 9738,
+    "timeYear": 9738,
     "dailyMinutesDown": {
-      "2024-07-27": 0
+      "2024-07-27": 13
     }
   },
   {
