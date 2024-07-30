@@ -23,8 +23,8 @@ on:
     types: [setup]
   workflow_dispatch:
 permissions:
-  repository-projects: write
-  pages: write
+  actions: write
+  contents: write
 jobs:
   release:
     name: Setup Upptime

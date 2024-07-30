@@ -22,7 +22,7 @@ on:
     types: [static_site]
   workflow_dispatch:
 permissions:
-  pages: write
+  contents: write
 jobs:
   release:
     name: Build and deploy site
